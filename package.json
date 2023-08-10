@@ -1,0 +1,13 @@
+{
+  "name": "mpa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
